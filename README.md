@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **React Native,TypeScript**
 
-- 💬 Ask me about ** AWS, JavaScript, Python, SQL, Figma, Git, Linux, TensorFlow, Docker, React.js, Express.js, MongoDB, GitHub, Kubernetes, DevOps, Ansible, Jenkins, and Microsoft Azure.**
+- 💬 Ask me about **AWS, JavaScript, Python, SQL, Figma, Git, Linux, TensorFlow, Docker, React.js, Express.js, MongoDB, GitHub, Kubernetes, DevOps, Ansible, Jenkins, and Microsoft Azure.**
 
 - 📫 How to reach me **dadetugboboh1@gmail.com**
 
-- ⚡ Fun fact **I love making magic**
+- ⚡ Fun fact **I love playing Codm and varieties of sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
