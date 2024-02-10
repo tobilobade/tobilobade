@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native,TypeScript**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Node.Js, Ejs, Express, Vue, Mongoose/MongoDB**
+- 💬 Ask me about ** AWS, JavaScript, Python, SQL, Figma, Git, Linux, TensorFlow, Docker, React.js, Express.js, MongoDB, GitHub, Kubernetes, DevOps, Ansible, Jenkins, and Microsoft Azure.**
 
 - 📫 How to reach me **dadetugboboh1@gmail.com**
 
