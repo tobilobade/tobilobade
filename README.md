@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Damilola Adetugboboh</h1>
-<h3 align="center">A passionate Fullstack developer and a Product Designer located in Dublin, Ireland</h3>
+<h3 align="center">A Cloud Engineer: Developer | Product Designer | Software Engineer 💭☁️🛠️    located in Dublin, Ireland</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
