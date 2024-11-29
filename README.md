@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tobilobaadee" target="blank"><img src="https://img.shields.io/twitter/follow/tobilobaadee?logo=twitter&style=for-the-badge" alt="tobilobaadee" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Swift**
+- 🌱 I’m currently learning **Kubernetes better :)**
 
 - 💬 Ask me about **AWS, JavaScript, Python, SQL, Figma, Git, Linux, TensorFlow, Docker, React.js, Express.js, MongoDB, GitHub, Kubernetes, DevOps, Ansible, Jenkins, and Microsoft Azure.**
 
